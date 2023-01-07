@@ -1,3 +1,7 @@
+# Author: Scott Grivner
+# Website: scottgrivner.dev
+# Abstract: Scrape a web page for pdf files and download them all locally
+    
 # Import Modules
 import os
 import requests
