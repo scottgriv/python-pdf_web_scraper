@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** Python <br>
 **Category:** Utility Script <br>
-**Order:** 9 <br>
+**Order:** 3 <br>
 
 ## Parameters
 
