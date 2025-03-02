@@ -36,14 +36,17 @@ A simple Python script that scrapes web pages for PDF files and downloads them t
 1. Clone this repository.
 2. Install [Python](https://www.python.org/downloads/).
 3. Install [Pip](https://pip.pypa.io/en/stable/installing/).
-4. Install `pip installl beautifulsoup4` and `pip install urllib3` in your terminal.
+4. Install the required packages using `pip install -r requirements.txt` in your terminal.
 5. Place the web page URL and output file location in the `main.py` file here:
 ```python
 # Define your URL
 url = "https://yourWebsiteURL"
 
-#If there is no such folder, the script will create one automatically
-folder_location = r'/YOUR/OUTPUT/FILE/PATH'
+# By default, the script will download PDF files to the downloads folder.
+# You can change the folder location by updating the folder_location variable.
+# Example: folder_location = r'/Users/yourname/Documents'
+
+folder_location = r'./Downloads'
 ```
 6. Run the script: `python main.py`
 7. PDF files will be downloaded to your local directory.
