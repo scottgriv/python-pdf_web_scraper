@@ -46,7 +46,7 @@ url = "https://yourWebsiteURL"
 # You can change the folder location by updating the folder_location variable.
 # Example: folder_location = r'/Users/yourname/Documents'
 
-folder_location = r'./Downloads'
+folder_location = r'./downloads'
 ```
 6. Run the script: `python main.py`
 7. PDF files will be downloaded to your local directory.

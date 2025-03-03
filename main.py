@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 url = "https://yourWebsiteURL"
 
 # If there is no such folder, the script will create one automatically
-folder_location = r'./Downloads'
+folder_location = r'./downloads'
 if not os.path.exists(folder_location):
     os.mkdir(folder_location)
 
