@@ -27,6 +27,7 @@ A simple Python script that scrapes web pages for PDF files and downloads them t
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+- [Disclaimer](#disclaimer)
 - [Resources](#resources)
 - [License](#license)
 - [Credits](#credits)
@@ -50,6 +51,15 @@ folder_location = r'./downloads'
 ```
 6. Run the script: `python main.py`
 7. PDF files will be downloaded to your local directory.
+
+## Disclaimer
+
+> [!IMPORTANT]
+> This tool is not intended to break copyright laws and is for personal use only. It merely automates the retrieval of publicly available data using standard web scraping techniques.
+> The copyright of the data retrieved belongs to its respective owners, and I am not responsible for any illegal redistribution or misuse of data obtained using this tool.
+
+> [!CAUTION]
+> Use of this tool is at your own risk. By using this tool, you agree that you are solely responsible for any legal issues that may arise from your use of this tool.
 
 ## Resources
 
