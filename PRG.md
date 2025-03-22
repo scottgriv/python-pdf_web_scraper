@@ -12,10 +12,10 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 ## Project Information
 
-**Repository Tier:** Bronze <br>
+**Repository Tier:** Silver <br>
 **Technology:** Python <br>
 **Category:** Utility Script <br>
-**Order:** 3 <br>
+**Order:** 37 <br>
 
 ## Parameters
 
